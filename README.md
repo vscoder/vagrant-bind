@@ -1,4 +1,4 @@
-# DNS LAB 
+# Vagrant DNS Lab
 
 A Bind's DNS lab with Vagrant and Ansible, based on CentOS 7.
 
